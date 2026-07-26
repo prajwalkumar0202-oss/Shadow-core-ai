@@ -1,0 +1,20 @@
+shadow-core-ai/
+│
+├── backend/
+│   ├── src/
+│   │   ├── common/
+│   │   ├── config/
+│   │   ├── modules/
+│   │   ├── main.ts
+│   │   └── app.module.ts
+│   │
+│   ├── prisma/
+│   │   └── schema.prisma
+│   │
+│   ├── package.json
+│   └── tsconfig.json
+│
+├── frontend/
+├── docker-compose.yml
+├── .env.example
+└── README.md
